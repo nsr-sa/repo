@@ -16,3 +16,23 @@ Icon: https://plus.3z43.com/wp-content/uploads/2020/02/admin-ajax.php_-1.png
 MD5sum: f903416fee6fc00c3e0431c418b50e62
 SHA1: 209cd86c27fc2ac200d468e7cf1cec27497cdd02
 SHA256: 9a64e5fcc8551d48704bc022f1aa06f70f13198b0d530b3876c5612d5b2c0f85
+
+Package: net.myclassic.snapbreakas
+Version: 1.7.1
+Priority: optional
+Section: Tweaks
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, com.s0me1ne.atweakdisabler, fr.s0me1ne.snapbreak
+SileoDepiction: https://myclassic.net/sileo.php?pid=639
+Architecture: iphoneos-arm
+Filename: https://myclassic.net/downloads.php?request=438.deb
+Size: 6465106
+Description: ظ†ط³ط®ط© ظ…ظƒط±ظƒط©
+Name: SnapBreak ط³ظ†ط§ط¨ ط¨ط±ظٹظƒ
+Author: Tweak
+Depiction: http://www.myclassic.net/index.php?pid=639
+Icon: https://plus.3z43.com/wp-content/uploads/2020/02/admin-ajax.php_-1.png
+MD5sum: f903416fee6fc00c3e0431c418b50e62
+SHA1: 209cd86c27fc2ac200d468e7cf1cec27497cdd02
+SHA256: 9a64e5fcc8551d48704bc022f1aa06f70f13198b0d530b3876c5612d5b2c0f85
+© 2020 GitHub, Inc.
