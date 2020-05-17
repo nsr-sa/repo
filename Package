@@ -1,18 +1,18 @@
-Package: com.archry.joker
-Version: 1.0.30-1+debug
+Package: net.myclassic.snapbreakas
+Version: 1.7.1
 Architecture: iphoneos-arm
-Installed-Size: 588
-Depends: mobilesubstrate
-Filename: ./debs/com.archry.joker.deb.deb
-Size: 117922
-MD5sum: c5d30e1b10177190ee56eecf5dbb5cfe
-SHA1: 377d5c59926083b2acdd95028abe24edfeba6141
-SHA256: fcb97af34c56d4a2bd67540df0427cb0cbd9b68e4c4e78f555265c3db1e2b67e
-Section: Hack
+Installed-Size: 485
+Depends: firmware (>= 10.0), mobilesubstrate, sed
+Filename: ./debs/net.myclassic.sapnclassic  _1.7.1_iphoneos-arm.deb
+Size: 5085874
+MD5sum: 0bab06763a7303f85e0d0893fe198460
+SHA1: d8dbac15a53542289e01398c221802f14a6b047a
+SHA256: 3102bdc2ea5f78f0fe58724efd36945f1ac4b50450ab13c0e183aa0ceb40ed38
+Section: Tweaks
 Description: Archery king hack winde , zoom  and better Aiming
-Author: @Kgfunn
-Depiction: https://joker2gun.github.io/depictions/?p=com.archry.joker
-Name: Archery King Hack
+Author: @nSr
+Depiction: https://nsr-sa.github.io/repo
+Name: nSr
 
 Package: com.gun2joker.hon
 Version: 3.6.1-1+debug
