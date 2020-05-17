@@ -30,3 +30,21 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3
 Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++
+
+Package: com.pukgfunne.com
+Version: 0.18.0-1
+Architecture: iphoneos-arm
+Maintainer: pukgfunne
+Depends: firmware (>= 10.0), mobilesubstrate
+Conflicts: com.pukgfunne.com.hack
+Filename: debs/com.pukgfunne.com_0.18.0-1+debug_iphoneos-arm.deb
+Size: 881542
+MD5sum: 352f42afccc538393400195e39f0bd81
+SHA1: 1a0820b13066dd3bc1c3dc6c7cc2a7084c272211
+SHA256: f058924b2f74eeaa7316aa6736ee4e4da4b135bceec16ba445c9f2c04549f13b
+Section: PUBG HACK
+Priority: optional
+Description: مميزات الهاك عدم تناثر الرصاص,ثبات السلاح والكام , حركة سريعة , اخفاء العشب , سرعة سياره
+Author: pukgfunne
+Depiction: https://nsr-sa.github.io/repo/
+Name: Pubg Hack v0.18.0
